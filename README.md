@@ -1,5 +1,10 @@
 # Imagekit Compress & Upload Prototype
 
+<div align="center" >
+<img src="https://github.com/user-attachments/assets/6510ba19-cf39-4273-bde2-eac9ae1863d1" alt="Logo de T-Dev-Org" width="400"/>
+<img src="https://github.com/user-attachments/assets/e06b4bd7-61fc-47b4-b2f0-ad172585cf43" alt="Logo de T-Dev-Org" width="300"/>
+</div>
+
 This is a Next.js project that enables image uploading using ImageKit.io. It utilizes Tailwind CSS for styling and lucide-react icons for a modern and functional user interface.
 
 This project was created following the [ImageKit.io Next.js Tutorial](https://imagekit.io/docs/integration/nextjs) and the [API Reference for File Upload](https://imagekit.io/docs/api-reference/upload-file/upload-file).
